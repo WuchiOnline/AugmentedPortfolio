@@ -1,3 +1,5 @@
+### Unity
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -54,7 +56,20 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+.out/
 
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/_Soara/
+Assets/_Soara.meta
+Assets/Plugins/
+Assets/Plugins.meta
+Assets/IgnoreTools/
+Assets/IgnoreTools.meta
+Assets/IgnoreExtensions/
+Assets/IgnoreExtensions.meta
+Assets/IgnoreDemos/
+Assets/IgnoreDemos.meta
+
+ProjectSettings/UnityConnectSettings.asset
