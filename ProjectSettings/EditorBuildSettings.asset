@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/WorldSpaceAnimText.unity
+    guid: 1a92fae07bfdd2949ae368e96787add8
+  - enabled: 0
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/TapGestureInteractable.unity
+    guid: 1c4434571d30a704686861082beca7c1
+  - enabled: 0
     path: Assets/_AugmentedPortfolio/Scenes/Labs/AvatarTest.unity
     guid: 2ab1229d9d9f72d4e878f2c6c1f3047b
   - enabled: 0
