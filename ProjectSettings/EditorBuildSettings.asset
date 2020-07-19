@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/APL008_NewUXv2.unity
+    guid: ef417530588809f41a9ca1296d9b3281
+  - enabled: 0
     path: Assets/_AugmentedPortfolio/Scenes/Labs/NewUxWithInteractablePrefab.unity
     guid: 61c77b74a9509704594b90bd70c0f4cd
   - enabled: 0
