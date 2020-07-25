@@ -832,7 +832,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_CustomReticle: {fileID: 0}
-  m_PlacementPrefab: {fileID: 6327204433934875393, guid: c032e13246990294eb6da08d3cbb349a,
+  m_PlacementPrefab: {fileID: 8035954528997923258, guid: d74e103aeb4d564408c416faa09def4e,
     type: 3}
   m_OnObjectPlaced:
     m_PersistentCalls:
@@ -1010,13 +1010,13 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 1.6
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
