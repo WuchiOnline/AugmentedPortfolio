@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_AugmentedPortfolio/Scenes/PortfolioBase.unity
     guid: 81d3d41a2bd76a946b793614dba7cbea
+  - enabled: 1
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/APL013_MeshModelTest.unity
+    guid: d1b87fbbca5841b46b8258c202cc3967
   - enabled: 0
     path: Assets/_AugmentedPortfolio/Scenes/Labs/APL010_CurvedUIxScifiUI.unity
     guid: 8305453516cf9b04b83594bace013ea7
