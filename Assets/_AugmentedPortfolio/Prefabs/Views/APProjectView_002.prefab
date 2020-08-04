@@ -5083,8 +5083,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290888370225678}
-  timeAppear: 0.72
-  timeDisappear: 0.27999997
+  timeAppear: 0.59
+  timeDisappear: 0.41000003
   recycling: 0
   sortID: 13
   animator: {fileID: 6462290888370225666}
@@ -5236,8 +5236,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290888392660411}
-  timeAppear: 0.44
-  timeDisappear: 0.56
+  timeAppear: 0.36
+  timeDisappear: 0.64
   recycling: 0
   sortID: 8
   animator: {fileID: 6462290888392660412}
@@ -6050,8 +6050,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290888489586257}
-  timeAppear: 0.05
-  timeDisappear: 0.95
+  timeAppear: 0.04
+  timeDisappear: 0.96
   recycling: 0
   sortID: 1
   animator: {fileID: 6462290888489586602}
@@ -6469,6 +6469,7 @@ GameObject:
   - component: {fileID: 6462290888583660815}
   - component: {fileID: 6462290888583660814}
   - component: {fileID: 6462290888583660809}
+  - component: {fileID: 6578047444503129745}
   m_Layer: 0
   m_Name: HooplordMedium (1)
   m_TagString: Untagged
@@ -6644,6 +6645,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Dirty: 0
+--- !u!114 &6578047444503129745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6462290888583660811}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 573961e380f210b4d9d02153ca5ffa5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameObjectRef: {fileID: 6462290888583660811}
+  timeAppear: 0.95
+  timeDisappear: 0.050000012
+  recycling: 0
+  sortID: 21
+  animator: {fileID: 0}
+  animClips: []
+  currentState: 3
+  isNested_IAM: 0
 --- !u!1 &6462290888583892693
 GameObject:
   m_ObjectHideFlags: 0
@@ -6919,6 +6941,7 @@ GameObject:
   - component: {fileID: 6462290888647748913}
   - component: {fileID: 6462290888647748912}
   - component: {fileID: 6462290888647748915}
+  - component: {fileID: 27279145743757187}
   m_Layer: 0
   m_Name: HooplordTitle
   m_TagString: Untagged
@@ -7096,6 +7119,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Dirty: 0
+--- !u!114 &27279145743757187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6462290888647748925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 573961e380f210b4d9d02153ca5ffa5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameObjectRef: {fileID: 6462290888647748925}
+  timeAppear: 0.86
+  timeDisappear: 0.13999999
+  recycling: 0
+  sortID: 19
+  animator: {fileID: 0}
+  animClips: []
+  currentState: 3
+  isNested_IAM: 0
 --- !u!1 &6462290888648045948
 GameObject:
   m_ObjectHideFlags: 0
@@ -7429,8 +7473,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290888720973459}
-  timeAppear: 0.27
-  timeDisappear: 0.73
+  timeAppear: 0.22
+  timeDisappear: 0.78
   recycling: 0
   sortID: 5
   animator: {fileID: 6462290888720973460}
@@ -8776,8 +8820,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290888857591894}
-  timeAppear: 0.11
-  timeDisappear: 0.89
+  timeAppear: 0.09
+  timeDisappear: 0.90999997
   recycling: 0
   sortID: 2
   animator: {fileID: 6462290888857592235}
@@ -9123,8 +9167,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290888894216002}
-  timeAppear: 0.16
-  timeDisappear: 0.84000003
+  timeAppear: 0.13
+  timeDisappear: 0.87
   recycling: 0
   sortID: 3
   animator: {fileID: 6462290888894216007}
@@ -9276,8 +9320,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290888903469623}
-  timeAppear: 0.33
-  timeDisappear: 0.66999996
+  timeAppear: 0.27
+  timeDisappear: 0.73
   recycling: 0
   sortID: 6
   animator: {fileID: 6462290888903469576}
@@ -9971,8 +10015,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889050614006}
-  timeAppear: 0.83
-  timeDisappear: 0.17000002
+  timeAppear: 0.68
+  timeDisappear: 0.32
   recycling: 0
   sortID: 15
   animator: {fileID: 6462290889050613962}
@@ -10430,8 +10474,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889075168703}
-  timeAppear: 0.66
-  timeDisappear: 0.33999997
+  timeAppear: 0.54
+  timeDisappear: 0.45999998
   recycling: 0
   sortID: 12
   animator: {fileID: 6462290889075168694}
@@ -10671,8 +10715,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889110025601}
-  timeAppear: 0.55
-  timeDisappear: 0.45
+  timeAppear: 0.45
+  timeDisappear: 0.55
   recycling: 0
   sortID: 10
   animator: {fileID: 6462290889110025624}
@@ -11129,8 +11173,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889146327985}
-  timeAppear: 0.94
-  timeDisappear: 0.060000002
+  timeAppear: 0.77
+  timeDisappear: 0.23000002
   recycling: 0
   sortID: 17
   animator: {fileID: 6462290889146327989}
@@ -11429,8 +11473,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889332363810}
-  timeAppear: 0.5
-  timeDisappear: 0.5
+  timeAppear: 0.4
+  timeDisappear: 0.6
   recycling: 0
   sortID: 9
   animator: {fileID: 6462290889332363812}
@@ -11456,7 +11500,7 @@ MonoBehaviour:
   savedUp: {x: 2.7428991e-15, y: 0.997957, z: -0.06388928}
   savedRectSize: {x: 111.5, y: 101.9}
   savedColor: {r: 1, g: 1, b: 1, a: 1}
-  savedTextUV0: {x: 0, y: 0.015625}
+  savedTextUV0: {x: 0, y: 0.0625}
   savedFill: 0
 --- !u!1 &6462290889355019774
 GameObject:
@@ -12192,8 +12236,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889456090790}
-  timeAppear: 1
-  timeDisappear: 0
+  timeAppear: 0.81
+  timeDisappear: 0.19
   recycling: 0
   sortID: 18
   animator: {fileID: 6462290889456090810}
@@ -12469,8 +12513,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889516001713}
-  timeAppear: 0.88
-  timeDisappear: 0.120000005
+  timeAppear: 0.72
+  timeDisappear: 0.27999997
   recycling: 0
   sortID: 16
   animator: {fileID: 6462290889516001717}
@@ -13052,6 +13096,7 @@ GameObject:
   - component: {fileID: 6462290889571718954}
   - component: {fileID: 6462290889571719125}
   - component: {fileID: 6462290889571719124}
+  - component: {fileID: 2658542113053987820}
   m_Layer: 0
   m_Name: HooplordMedium
   m_TagString: Untagged
@@ -13229,6 +13274,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Dirty: 0
+--- !u!114 &2658542113053987820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6462290889571719126}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 573961e380f210b4d9d02153ca5ffa5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameObjectRef: {fileID: 6462290889571719126}
+  timeAppear: 0.9
+  timeDisappear: 0.100000024
+  recycling: 0
+  sortID: 20
+  animator: {fileID: 0}
+  animClips: []
+  currentState: 3
+  isNested_IAM: 0
 --- !u!1 &6462290889610397201
 GameObject:
   m_ObjectHideFlags: 0
@@ -13543,8 +13609,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290889629279940}
-  timeAppear: 0.38
-  timeDisappear: 0.62
+  timeAppear: 0.31
+  timeDisappear: 0.69
   recycling: 0
   sortID: 7
   animator: {fileID: 6462290889629279961}
@@ -14115,7 +14181,11 @@ MonoBehaviour:
   - {fileID: 6462290889516001716}
   - {fileID: 6462290889146327988}
   - {fileID: 6462290889456090788}
-  autoStart: 1
+  - {fileID: 27279145743757187}
+  - {fileID: 2658542113053987820}
+  - {fileID: 6578047444503129745}
+  - {fileID: 6462290890284958912}
+  autoStart: 0
   invertDelays: 1
   cloneDelays: 0
   timer: 0
@@ -14733,8 +14803,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290890062687754}
-  timeAppear: 0.61
-  timeDisappear: 0.39
+  timeAppear: 0.5
+  timeDisappear: 0.5
   recycling: 0
   sortID: 11
   animator: {fileID: 6462290890062687757}
@@ -14997,8 +15067,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290890105334004}
-  timeAppear: 0.22
-  timeDisappear: 0.78
+  timeAppear: 0.18
+  timeDisappear: 0.82
   recycling: 0
   sortID: 4
   animator: {fileID: 6462290890105333961}
@@ -15940,10 +16010,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290890284958925}
-  timeAppear: 0.5
-  timeDisappear: 0.5
+  timeAppear: 1
+  timeDisappear: 0
   recycling: 0
-  sortID: 9
+  sortID: 22
   animator: {fileID: 6462290890284958919}
   animClips:
   - {fileID: 7400000, guid: 22e0207d6cd021842b84a65cae6707b7, type: 2}
@@ -15967,7 +16037,7 @@ MonoBehaviour:
   savedUp: {x: 2.7428991e-15, y: 0.997957, z: -0.06388928}
   savedRectSize: {x: 111.5, y: 101.9}
   savedColor: {r: 1, g: 1, b: 1, a: 1}
-  savedTextUV0: {x: 0.095703125, y: 0.15820312}
+  savedTextUV0: {x: 0.60546875, y: 0.10546875}
   savedFill: 0
 --- !u!1 &6462290890303376697
 GameObject:
@@ -16092,8 +16162,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObjectRef: {fileID: 6462290890303376697}
-  timeAppear: 0.77
-  timeDisappear: 0.23000002
+  timeAppear: 0.63
+  timeDisappear: 0.37
   recycling: 0
   sortID: 14
   animator: {fileID: 6462290890303376701}
