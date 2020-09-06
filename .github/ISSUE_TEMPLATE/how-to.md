@@ -1,10 +1,8 @@
 ---
 name: How to
-about: How to do something in ARFoundation
+about: How To
 title: ''
 labels: how to
 assignees: ''
 
 ---
-
-How do I...
