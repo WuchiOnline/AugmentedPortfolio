@@ -9,37 +9,40 @@ EditorBuildSettings:
     path: Assets/_AugmentedPortfolio/Scenes/PortfolioBase.unity
     guid: 81d3d41a2bd76a946b793614dba7cbea
   - enabled: 1
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/APL014_FullUIExampleXHooplordModel.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/APL015_ProjectViewMVP.unity
+    guid: 9767f489c8a45654cb261c02b2285141
+  - enabled: 0
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/APL014_FullUIExampleXHooplordModel.unity
     guid: 3da1f7c02f700904bbadd9840239ad15
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/APL013_MeshModelTest.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/APL013_MeshModelTest.unity
     guid: d1b87fbbca5841b46b8258c202cc3967
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/APL010_CurvedUIxScifiUI.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/APL010_CurvedUIxScifiUI.unity
     guid: 8305453516cf9b04b83594bace013ea7
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/CurvedUI.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/CurvedUI.unity
     guid: 6817801e4570ec442a0b1a7d4cbbd73a
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/APL008_NewUXv2.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/APL008_NewUXv2.unity
     guid: ef417530588809f41a9ca1296d9b3281
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/NewUxWithInteractablePrefab.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/NewUxWithInteractablePrefab.unity
     guid: 61c77b74a9509704594b90bd70c0f4cd
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/ImageGallery.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/ImageGallery.unity
     guid: aa429bfe5268d074a86df83a2b0909bd
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/VideoPlayerStream.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/VideoPlayerStream.unity
     guid: 493ae6522fad9a64398dfce52f82f71b
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/WorldSpaceAnimText.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/WorldSpaceAnimText.unity
     guid: 1a92fae07bfdd2949ae368e96787add8
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/TapGestureInteractable.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/TapGestureInteractable.unity
     guid: 1c4434571d30a704686861082beca7c1
   - enabled: 0
-    path: Assets/_AugmentedPortfolio/Scenes/Labs/AvatarTest.unity
+    path: Assets/_AugmentedPortfolio/Scenes/Labs/Lab Archives/AvatarTest.unity
     guid: 2ab1229d9d9f72d4e878f2c6c1f3047b
   - enabled: 0
     path: Assets/ARSamples/Scenes/ARFoundationMenu/Menu.unity
