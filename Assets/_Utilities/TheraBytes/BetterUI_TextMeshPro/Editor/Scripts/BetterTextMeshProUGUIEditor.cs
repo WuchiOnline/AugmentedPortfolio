@@ -10,7 +10,7 @@ namespace TheraBytes.BetterUi.Editor
 {
     [CustomEditor(typeof(BetterTextMeshProUGUI)), CanEditMultipleObjects]
 
-    public class BetterTextMeshProUGUIEditor : TMPro.EditorUtilities.TMP_BaseEditorPanel
+    public class BetterTextMeshProUGUIEditor : TMPro.EditorUtilities.TMP_EditorPanel
     {
         bool foldout = true;
 
@@ -130,21 +130,6 @@ namespace TheraBytes.BetterUi.Editor
                 newCtrl.rectTransform.sizeDelta = rectSize;
                 newCtrl.rectTransform.anchoredPosition = rectPos;
             }
-        }
-
-        protected override void DrawExtraSettings()
-        {
-            throw new NotImplementedException();
-        }
-
-        protected override bool IsMixSelectionTypes()
-        {
-            throw new NotImplementedException();
-        }
-
-        protected override void OnUndoRedo()
-        {
-            throw new NotImplementedException();
         }
     }
 }
